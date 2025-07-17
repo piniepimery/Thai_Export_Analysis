@@ -19,7 +19,7 @@ In today's economic climate, loan demand is high, but the financial health of ma
 
 ### The Solution
 
-This model was built to shift the focus from "lending to whoever asks" to strategically targeting sectors with a proven ability to repay. By analyzing historical data, the model achieves this by:
+This model was built to shift the focus from lending to whoever asks to strategically targeting sectors with a proven ability to repay. By analyzing historical data, the model achieves this by:
 
 1.  **Distinguishing sustainable, long-term growth** from volatile, short-term spikes.
 2.  **Identifying industries whose stable performance** indicates a stronger capacity to service debt.
