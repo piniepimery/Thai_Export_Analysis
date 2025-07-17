@@ -1,6 +1,6 @@
 # Strategic Portfolio Analysis of Thailand's Export Sector
 
-![BCG Matrix Dashboard Screenshot]([https://raw.githubusercontent.com/piniepimery/Thai_Export_Analysis/main/dashboard-export-preview.png](https://i.postimg.cc/tgg5skPP/Screenshot-2025-07-17-151717.png))
+![BCG Matrix Dashboard Screenshot](https://github.com/piniepimery/Thai_Export_Analysis/blob/main/dashboard-Thai-export-preview.png)
 
 > An interactive dashboard built with R and `flexdashboard` that uses a BCG-inspired model to identify high-potential export industries and mitigate loan risk for lenders.
 
